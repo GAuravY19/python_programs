@@ -20,7 +20,7 @@ text = input("Enter the text you want to translate :- ")
 dest = input("Enter the language of translation :- ")
 
 
-languages(dest)
+print(languages(dest))
 googleTrans()
 
 
