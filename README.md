@@ -4,7 +4,7 @@
 Also, I have used to APIs to make news programs and read news programs </p>
 <br>
 <br>
-<h1>Projects List</h1>
+<h1>Programs List</h1>
   <br>
 <p>1. Calculator with python library PuQt5</p>
 <p>2. Translator Using google_translator and tkinter</p>
